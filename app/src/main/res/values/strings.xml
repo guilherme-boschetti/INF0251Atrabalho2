@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">INF0251Atrabalho2</string>
+    <string name="game_title">Jogo do Labirinto</string>
+    <string name="play">Jogar</string>
+    <string name="test_move_ball">Teste Mover Bola</string>
+    <string name="exit_game">Sair</string>
+    <string name="accelerometer_warning">O dispositivo não possui acelerômetro!</string>
+    <string name="entrance">ENTRADA</string>
+    <string name="exit">SAÍDA</string>
+    <string name="level">Nível %1$d</string>
+    <string name="next_level">Próximo Nível</string>
+    <string name="restart_level">Reiniciar Nível</string>
+    <string name="back_to_home">Voltar a Tela Inicial</string>
+    <string name="congratulations">Parabéns! Você chegou à saída.</string>
+    <string name="crashes_time">Você bateu %1$d vezes. Seu tempo foi de %2$.2f segundos.</string>
+</resources>
